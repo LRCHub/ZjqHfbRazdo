@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "ランナウェイ (2025 Ver.)",
+  "base_artist": "Masayuki Suzuki",
+  "createdAt": "2026-03-06T03:53:29.488850Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ランナウェイ",
+      "artist": "Masayuki Suzuki",
+      "has_synced": false,
+      "path": "select/01_ランナウェイ_Masayuki_Suzuki.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ランナウェイ",
+      "artist": "RATS & STAR",
+      "has_synced": false,
+      "path": "select/02_ランナウェイ_RATS_&_STAR.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ランナウェイ",
+      "artist": "Cascada",
+      "has_synced": true,
+      "path": "select/03_ランナウェイ_Cascada.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ランナウェイ",
+      "artist": "シャネルズ",
+      "has_synced": false,
+      "path": "select/04_ランナウェイ_シャネルズ.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ランナウェイ",
+      "artist": "鈴木雅之",
+      "has_synced": true,
+      "path": "select/05_ランナウェイ_鈴木雅之.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ランナウェイ",
+      "artist": "鈴木雅之",
+      "has_synced": true,
+      "path": "select/06_ランナウェイ_鈴木雅之.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ランナウェイ",
+      "artist": "Shanels",
+      "has_synced": true,
+      "path": "select/07_ランナウェイ_Shanels.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ランナウェイ",
+      "artist": "Masayuki Suzuki",
+      "has_synced": true,
+      "path": "select/08_ランナウェイ_Masayuki_Suzuki.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ランナウェイ",
+      "artist": "Suzuki, Masayuki",
+      "has_synced": true,
+      "path": "select/09_ランナウェイ_Suzuki,_Masayuki.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ランナウェイ",
+      "artist": "Chanels",
+      "has_synced": false,
+      "path": "select/10_ランナウェイ_Chanels.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ランナウェイ",
+      "artist": "Chanels",
+      "has_synced": true,
+      "path": "select/11_ランナウェイ_Chanels.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ミッドナイト・ランナウェイ",
+      "artist": "常闇トワ",
+      "has_synced": true,
+      "path": "select/12_ミッドナイト・ランナウェイ_常闇トワ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ランナウェイ",
+      "artist": "鈴木 雅之",
+      "has_synced": false,
+      "path": "select/pl_01_ランナウェイ_鈴木_雅之.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ランナウェイ",
+      "artist": "鈴木 雅之",
+      "has_synced": false,
+      "path": "select/pl_02_ランナウェイ_鈴木_雅之.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ランナウェイ",
+      "artist": "鈴木 雅之",
+      "has_synced": false,
+      "path": "select/pl_03_ランナウェイ_鈴木_雅之.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ランナウェイ (2025 Ver.)",
+      "artist": "鈴木 雅之",
+      "has_synced": false,
+      "path": "select/pl_04_ランナウェイ_(2025_Ver.)_鈴木_雅之.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ランナウェイ Brand New Soul Version",
+      "artist": "鈴木 雅之",
+      "has_synced": false,
+      "path": "select/pl_05_ランナウェイ_Brand_New_Soul_Version_鈴木_雅之.txt"
+    }
+  ]
+}
